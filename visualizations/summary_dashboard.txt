@@ -1,0 +1,31 @@
+
+╔════════════════════════════════════════════════════════════════════════╗
+║           AUTONOMOUS ERROR RECOVERY PATTERNS IN LLMs                      ║
+║                    EXPERIMENTAL RESULTS DASHBOARD                         ║
+╠════════════════════════════════════════════════════════════════════════╣
+║                                                                            ║
+║  OVERALL METRICS                                                          ║
+║  ├─ Total Tests Executed: 150                                            ║
+║  ├─ Successful Recoveries: 79 (52.7%)                                    ║
+║  ├─ Error Detection Rate: 0 (0.0%)                                     ║
+║  └─ Correction Success: 0 (0.0%)                                       ║
+║                                                                            ║
+║  TIMING STATISTICS (milliseconds)                                         ║
+║  ├─ Mean Recovery Time: 295.24                                          ║
+║  ├─ Median Recovery Time: 302.50                                        ║
+║  ├─ Minimum Time: 166.56                                                ║
+║  └─ Maximum Time: 395.31                                                ║
+║                                                                            ║
+║  COMPLEXITY ANALYSIS                                                      ║
+║  ├─ Level 1 Success Rate: 60.0%                                      ║
+║  ├─ Level 2 Success Rate: 60.0%                                      ║
+║  ├─ Level 3 Success Rate: 63.3%                                      ║
+║  ├─ Level 4 Success Rate: 40.0%                                      ║
+║  └─ Level 5 Success Rate: 40.0%                                      ║
+║                                                                            ║
+║  TOP PERFORMING ERROR TYPES                                               ║
+║  1. invalid_indentation       (90.0%)                             ║
+║  2. unclosed_quotes           (80.0%)                             ║
+║  3. string_int_concatenation  (70.0%)                             ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════╝

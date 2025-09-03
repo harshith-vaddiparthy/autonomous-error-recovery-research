@@ -1,0 +1,11 @@
+CORRELATION MATRIX
+============================================================
+
+Correlations between key experimental metrics
+
+Metric          | Complexity | Time       | Confidence | Quality   
+------------------------------------------------------------
+Complexity      |     1.000 |     0.436 |    -0.141 |    -0.402 |
+Recovery Time   |     0.436 |     1.000 |     0.700 |    -0.150 |
+Confidence      |    -0.141 |     0.700 |     1.000 |     0.083 |
+Quality         |    -0.402 |    -0.150 |     0.083 |     1.000 |

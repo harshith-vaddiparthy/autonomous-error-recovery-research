@@ -1,0 +1,20 @@
+PERFORMANCE HEATMAP: Success Rate by Error Type and Complexity
+======================================================================
+
+Error Type                | C1    | C2    | C3    | C4    | C5    |
+----------------------------------------------------------------------
+bracket_mismatch          | 100.0% |  50.0% |  50.0% |  50.0% |   0.0% |
+division_by_zero          | 100.0% |  50.0% |   0.0% |  50.0% |  50.0% |
+incorrect_api_usage       |  50.0% |  50.0% |   0.0% |   0.0% |  50.0% |
+incorrect_condition       |  50.0% |  50.0% |  50.0% |  50.0% |   0.0% |
+index_out_of_bounds       | 100.0% | 100.0% | 100.0% |  50.0% |   0.0% |
+infinite_loop             |  50.0% |  50.0% |  50.0% |   0.0% |   0.0% |
+invalid_indentation       | 100.0% |  50.0% | 100.0% | 100.0% | 100.0% |
+key_error                 |   0.0% |  50.0% |  50.0% |  50.0% |  50.0% |
+missing_base_case         |  50.0% |   0.0% |  50.0% |   0.0% |  50.0% |
+missing_colon             | 100.0% |  50.0% | 100.0% |   0.0% |  50.0% |
+missing_parenthesis       | 100.0% |  50.0% | 100.0% |  50.0% |   0.0% |
+none_type_access          |   0.0% | 100.0% |  50.0% |  50.0% |  50.0% |
+off_by_one_error          |   0.0% |  50.0% |  50.0% |  50.0% |  50.0% |
+string_int_concatenation  |  50.0% | 100.0% | 100.0% |  50.0% |  50.0% |
+unclosed_quotes           |  50.0% | 100.0% | 100.0% |  50.0% | 100.0% |

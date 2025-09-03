@@ -1,0 +1,20 @@
+RECOVERY TIME DISTRIBUTION
+============================================================
+
+   167-   189ms: 16 tests
+   189-   212ms: 21 tests
+   212-   235ms: 0 tests
+   235-   258ms: 0 tests
+   258-   281ms: 24 tests
+   281-   304ms: 19 tests
+   304-   327ms: 6 tests
+   327-   350ms: 22 tests
+   350-   372ms: 20 tests
+   372-   395ms: 22 tests
+
+------------------------------------------------------------
+Mean: 295.24ms
+Median: 302.50ms
+Std Dev: 71.40ms
+Min: 166.56ms
+Max: 395.31ms

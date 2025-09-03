@@ -1,0 +1,10 @@
+PERFORMANCE BY COMPLEXITY LEVEL
+============================================================
+
+Complexity | Success Rate | Total Tests | Successful | Failed
+------------------------------------------------------------
+Level 1    |       60.00% |          30 |         18 |     12
+Level 2    |       60.00% |          30 |         18 |     12
+Level 3    |       63.33% |          30 |         19 |     11
+Level 4    |       40.00% |          30 |         12 |     18
+Level 5    |       40.00% |          30 |         12 |     18

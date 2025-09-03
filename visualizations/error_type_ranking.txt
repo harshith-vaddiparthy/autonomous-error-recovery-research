@@ -1,0 +1,20 @@
+ERROR TYPE RANKING BY RECOVERY SUCCESS
+======================================================================
+
+Rank | Error Type                    | Success | Avg Time | Tests | Successful
+--------------------------------------------------------------------------------
+   1 | invalid_indentation           |   90.0% |   332.0ms |    10 |          9
+   2 | unclosed_quotes               |   80.0% |   331.1ms |    10 |          8
+   3 | string_int_concatenation      |   70.0% |   314.8ms |    10 |          7
+   4 | index_out_of_bounds           |   70.0% |   278.9ms |    10 |          7
+   5 | missing_parenthesis           |   60.0% |   302.2ms |    10 |          6
+   6 | missing_colon                 |   60.0% |   314.0ms |    10 |          6
+   7 | division_by_zero              |   50.0% |   305.0ms |    10 |          5
+   8 | none_type_access              |   50.0% |   300.0ms |    10 |          5
+   9 | bracket_mismatch              |   50.0% |   315.8ms |    10 |          5
+  10 | off_by_one_error              |   40.0% |   267.3ms |    10 |          4
+  11 | incorrect_condition           |   40.0% |   276.9ms |    10 |          4
+  12 | key_error                     |   40.0% |   305.0ms |    10 |          4
+  13 | infinite_loop                 |   30.0% |   270.4ms |    10 |          3
+  14 | incorrect_api_usage           |   30.0% |   270.2ms |    10 |          3
+  15 | missing_base_case             |   30.0% |   245.1ms |    10 |          3
